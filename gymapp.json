@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'gymapp'
+
+// gymapp.users
+
+[{"user_id":"1","name":"Oliver","location":"14.587710, 121.176871"}, {"user_id":"2","name":"Chiara","location":"14.581230, 121.112371"}]
